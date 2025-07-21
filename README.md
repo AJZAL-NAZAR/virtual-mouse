@@ -24,7 +24,14 @@ This project implements a **Virtual Mouse** using hand gestures captured via web
 
 ## 📦 Requirements
 
+```bash
+
+pip install -r requirement.txt
+
+```
+OR
 Install the following packages before running the script:
 
 ```bash
 pip install opencv-python mediapipe pyautogui pycaw screen-brightness-control comtypes protobuf
+
