@@ -1,0 +1,8 @@
+pip install opencv-python
+pip install ctypes
+pip install mediapipe
+pip install comtypes
+pip install Enum
+pip install pycaw
+pip install screen-brightness-control
+pip install google-protobuf
